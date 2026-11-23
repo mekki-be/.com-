@@ -1,0 +1,1208 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>مكتب تأجير السيارات حنيف أكار | Concessionnaire de véhicules à moteur — Berrechid</title>
+  <meta name="description" content="مكتب تأجير السيارات حنيف أكار — Concessionnaire de véhicules à moteur et location de voitures à Berrechid. Adresse : 7C7H+37F، شارع حاتم الطائي، برشيد (Berrechid)." />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#0B0E14" />
+
+  <!-- Open Graph / Social Metadata -->
+  <meta property="og:type" content="business.business" />
+  <meta property="og:title" content="مكتب تأجير السيارات حنيف أكار — Berrechid" />
+  <meta property="og:description" content="Concessionnaire de véhicules à moteur & Location de voitures — 7C7H+37F، شارع حاتم الطائي، Berrechid." />
+  <meta property="og:locale" content="ar_MA" />
+  <meta property="og:locale:alternate" content="fr_MA" />
+  <meta property="og:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='630' viewBox='0 0 1200 630'%3E%3Crect width='1200' height='630' fill='%230B0E14'/%3E%3Ccircle cx='600' cy='250' r='90' fill='none' stroke='%23C89B54' stroke-width='6'/%3E%3Cpath d='M530 250 L670 250 M600 180 L600 320' stroke='%23C89B54' stroke-width='4'/%3E%3Ctext x='600' y='420' fill='%23F8F7F4' font-family='sans-serif' font-size='42' font-weight='bold' text-anchor='middle'%3E%D9%85%D9%83%D8%AA%D8%A8 %D8%AA%D8%A3%D8%AC%D9%8A%D8%B1 %D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA %D8%AD%D9%86%D9%8A%D9%81 %D8%A3%D9%83%D8%A7%D8%B1%3C/text%3E%3Ctext x='600' y='480' fill='%23C89B54' font-family='sans-serif' font-size='26' text-anchor='middle'%3EConcessionnaire de v%C3%A9hicules %C3%A0 moteur %E2%80%A2 Berrechid%3C/text%3E%3C/svg%3E" />
+
+  <!-- Dynamic SVG Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230B0E14'/%3E%3Cpolygon points='32,8 56,32 32,56 8,32' fill='none' stroke='%23C89B54' stroke-width='3'/%3E%3Ccircle cx='32' cy='32' r='11' fill='none' stroke='%23F8F7F4' stroke-width='2.5'/%3E%3Cpath d='M21 32 H43 M32 32 V43' stroke='%23C89B54' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E" />
+
+  <!-- Schema.org Structured Data (Strictly Factual) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["AutoRental", "AutoDealer"],
+    "name": "مكتب تأجير السيارات حنيف أكار",
+    "alternateName": "Hanif Car - Concessionnaire de véhicules à moteur",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7C7H+37F، شارع حاتم الطائي",
+      "addressLocality": "Berrechid",
+      "addressRegion": "Casablanca-Settat",
+      "addressCountry": "MA"
+    },
+    "hasMap": "https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+  }
+  </script>
+
+  <!-- Google Fonts: Cairo (Arabic) & Plus Jakarta Sans + Space Grotesk (Latin) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            obsidian: '#0B0E14',
+            asphalt: '#131822',
+            charcoal: '#1B2230',
+            bronze: '#C89B54',
+            bronzeLight: '#DFBA78',
+            alabaster: '#F8F7F4',
+            slateSteel: '#8F9BB0'
+          },
+          fontFamily: {
+            arabic: ['Cairo', 'sans-serif'],
+            latin: ['Plus Jakarta Sans', 'sans-serif'],
+            display: ['Space Grotesk', 'Cairo', 'sans-serif']
+          }
+        }
+      }
+    };
+  </script>
+
+  <style>
+    :root {
+      --bg-obsidian: #0B0E14;
+      --accent-bronze: #C89B54;
+      --surface-alabaster: #F8F7F4;
+    }
+
+    body {
+      background-color: var(--bg-obsidian);
+      color: #F8F7F4;
+      overflow-x: hidden;
+    }
+
+    html[dir="rtl"] body {
+      font-family: 'Cairo', sans-serif;
+    }
+
+    html[dir="ltr"] body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    /* GPU-accelerated parallax layers */
+    .parallax-layer {
+      will-change: transform;
+      transform: translate3d(0, 0, 0);
+    }
+
+    /* Subtle Moroccan geometric architectural grid overlay */
+    .geo-pattern {
+      background-image: radial-gradient(rgba(200, 155, 84, 0.14) 1px, transparent 1px),
+                        linear-gradient(to right, rgba(200, 155, 84, 0.04) 1px, transparent 1px),
+                        linear-gradient(to bottom, rgba(200, 155, 84, 0.04) 1px, transparent 1px);
+      background-size: 36px 36px, 72px 72px, 72px 72px;
+    }
+
+    /* Hero canvas poster fallback & styling */
+    #hero-cinematic-canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle at 50% 42%, #1E2638 0%, #0B0E14 78%);
+    }
+
+    /* Glassmorphic card styling */
+    .glass-panel {
+      background: rgba(19, 24, 34, 0.72);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border: 1px solid rgba(200, 155, 84, 0.18);
+    }
+
+    /* Reduced motion compliance */
+    @media (prefers-reduced-motion: reduce) {
+      .parallax-layer {
+        transform: none !important;
+        will-change: auto;
+      }
+      .animate-pulse,
+      .animate-bounce {
+        animation: none !important;
+      }
+    }
+  </style>
+</head>
+<body class="antialiased selection:bg-bronze selection:text-obsidian">
+
+  <!-- ==================== TOP NAVIGATION ==================== -->
+  <header class="fixed top-0 inset-x-0 z-50 transition-all duration-300 bg-obsidian/85 backdrop-blur-md border-b border-bronze/15">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between gap-4">
+      
+      <!-- Brand Emblem & Name -->
+      <a href="#top" class="flex items-center gap-3 group focus:outline-none">
+        <div class="w-11 h-11 rounded-xl bg-asphalt border border-bronze/40 flex items-center justify-center shadow-lg shadow-bronze/10 group-hover:border-bronze transition-colors shrink-0">
+          <!-- Bespoke Geometric Automotive Emblem SVG -->
+          <svg class="w-7 h-7" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <polygon points="32,6 58,32 32,58 6,32" stroke="#C89B54" stroke-width="2.5" />
+            <circle cx="32" cy="32" r="12" stroke="#F8F7F4" stroke-width="2.2" />
+            <path d="M20 32H44M32 32V44" stroke="#C89B54" stroke-width="2.4" stroke-linecap="round" />
+            <circle cx="32" cy="32" r="3" fill="#C89B54" />
+          </svg>
+        </div>
+        <div class="leading-tight">
+          <span class="block text-base sm:text-lg font-bold text-alabaster tracking-tight">
+            مكتب تأجير السيارات حنيف أكار
+          </span>
+          <span class="block text-xs text-bronze font-latin tracking-wide" dir="ltr">
+            Concessionnaire de véhicules à moteur
+          </span>
+        </div>
+      </a>
+
+      <!-- Desktop Nav Links -->
+      <nav class="hidden md:flex items-center gap-7 text-sm font-medium text-slateSteel">
+        <a href="#about" class="hover:text-bronze transition-colors" data-ar="عن المكتب" data-fr="À propos">عن المكتب</a>
+        <a href="#fleet-gallery" class="hover:text-bronze transition-colors" data-ar="معرض السيارات" data-fr="Galerie Véhicules">معرض السيارات</a>
+        <a href="#services" class="hover:text-bronze transition-colors" data-ar="الخدمات" data-fr="Services">الخدمات</a>
+        <a href="#location" class="hover:text-bronze transition-colors" data-ar="الموقع والاتجاهات" data-fr="Localisation">الموقع والاتجاهات</a>
+      </nav>
+
+      <!-- Actions: Language Switcher + Direct Directions CTA -->
+      <div class="flex items-center gap-2.5 sm:gap-3">
+        <button
+          id="lang-toggle"
+          type="button"
+          aria-label="Switch Language Arabic / French"
+          class="px-3 py-2 rounded-xl text-xs font-semibold border border-bronze/35 text-alabaster hover:bg-bronze/15 transition-colors cursor-pointer"
+        >
+          Français
+        </button>
+
+        <a
+          href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-bronze text-obsidian font-bold text-xs sm:text-sm hover:bg-bronzeLight transition-all shadow-md shadow-bronze/20"
+        >
+          <svg class="w-4 h-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polygon points="3 11 22 2 13 21 11 13 3 11" />
+          </svg>
+          <span data-ar="الاتجاهات" data-fr="Itinéraire">الاتجاهات</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ==================== CINEMATIC PARALLAX HERO ==================== -->
+  <section id="top" class="relative min-h-[92vh] pt-24 pb-16 flex items-center overflow-hidden bg-obsidian">
+    
+    <!-- Layer 0: Bespoke 60FPS Automotive Light-Trail & Horizon Motion Canvas (Poster-backed, Muted, Seamless) -->
+    <div class="absolute inset-0 z-0 parallax-layer" data-parallax-speed="0.15" aria-hidden="true">
+      <canvas id="hero-cinematic-canvas"></canvas>
+      <!-- Subtle vignette & contrast gradients -->
+      <div class="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/45 to-obsidian/70 pointer-events-none"></div>
+      <div class="absolute inset-0 bg-gradient-to-r from-obsidian/80 via-transparent to-obsidian/80 pointer-events-none"></div>
+    </div>
+
+    <!-- Layer 1: Mid-ground Architectural Moroccan Geometric Framing -->
+    <div class="absolute inset-0 z-10 pointer-events-none parallax-layer opacity-35" data-parallax-speed="0.32" aria-hidden="true">
+      <svg class="w-full h-full" preserveAspectRatio="none" viewBox="0 0 1440 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M-100 680 L480 420 L960 420 L1540 680" stroke="#C89B54" stroke-opacity="0.35" stroke-width="1.2" />
+        <path d="M220 0 L540 420 M1220 0 L900 420" stroke="#C89B54" stroke-opacity="0.18" stroke-width="1" stroke-dasharray="6 8" />
+        <circle cx="720" cy="410" r="240" stroke="#C89B54" stroke-opacity="0.12" stroke-width="1" />
+      </svg>
+    </div>
+
+    <!-- Layer 2: Foreground Content & Interactive Location Bar -->
+    <div class="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full parallax-layer" data-parallax-speed="-0.08">
+      <div class="max-w-3xl">
+        <!-- Category Pill -->
+        <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full glass-panel text-bronze text-xs sm:text-sm font-semibold mb-6">
+          <span class="w-2 h-2 rounded-full bg-bronze animate-pulse"></span>
+          <span data-ar="وكالة كراء السيارات وبيع المركبات ذات المحرك • برشيد" data-fr="Concessionnaire de véhicules à moteur & Location • Berrechid">
+            وكالة كراء السيارات وبيع المركبات ذات المحرك • برشيد
+          </span>
+        </div>
+
+        <!-- Primary Exact Business Name -->
+        <h1 class="text-3xl sm:text-5xl lg:text-6xl font-extrabold text-alabaster tracking-tight leading-[1.18] mb-4">
+          مكتب تأجير السيارات حنيف أكار
+        </h1>
+
+        <!-- Secondary Official French Category Designation -->
+        <p class="text-lg sm:text-2xl text-bronze font-latin font-medium mb-6" dir="ltr">
+          Concessionnaire de véhicules à moteur &amp; Agence de location
+        </p>
+
+        <!-- Neutral, Accurate Supporting Copy -->
+        <p
+          class="text-base sm:text-lg text-slateSteel leading-relaxed max-w-2xl mb-9"
+          data-ar="حلول تنقل موثوقة وخدمات تأجير واقتناء المركبات في قلب مدينة برشيد. نرحب بزيارتكم في مقرنا بشارع حاتم الطائي للاطلاع على المركبات المتوفرة وإتمام إجراءاتكم بكل سلاسة."
+          data-fr="Votre adresse dédiée à la location de voitures et aux véhicules à moteur au cœur de Berrechid. Rendez-vous dans notre agence sur l'avenue Hatim Tai pour découvrir nos solutions de mobilité."
+        >
+          حلول تنقل موثوقة وخدمات تأجير واقتناء المركبات في قلب مدينة برشيد. نرحب بزيارتكم في مقرنا بشارع حاتم الطائي للاطلاع على المركبات المتوفرة وإتمام إجراءاتكم بكل سلاسة.
+        </p>
+
+        <!-- Primary & Secondary Action Buttons -->
+        <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-4">
+          <a
+            href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center justify-center gap-3 px-7 py-4 rounded-2xl bg-bronze text-obsidian font-bold text-base hover:bg-bronzeLight transition-all shadow-xl shadow-bronze/20"
+          >
+            <svg class="w-5 h-5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+              <circle cx="12" cy="10" r="3" />
+            </svg>
+            <span data-ar="الحصول على الاتجاهات عبر خرائط جوجل" data-fr="Itinéraire sur Google Maps">
+              الحصول على الاتجاهات عبر خرائط جوجل
+            </span>
+          </a>
+
+          <a
+            href="#fleet-gallery"
+            class="inline-flex items-center justify-center gap-2.5 px-7 py-4 rounded-2xl glass-panel text-alabaster font-semibold text-base hover:border-bronze/60 transition-all"
+          >
+            <span data-ar="تصفح معرض السيارات" data-fr="Explorer la galerie">تصفح معرض السيارات</span>
+            <svg class="w-4 h-4 rtl:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="5" y1="12" x2="19" y2="12" />
+              <polyline points="12 5 19 12 12 19" />
+            </svg>
+          </a>
+        </div>
+
+        <!-- Verified Location Strip -->
+        <div class="mt-10 pt-6 border-t border-white/10 flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-slateSteel">
+          <div class="flex items-center gap-2.5">
+            <span class="w-8 h-8 rounded-lg bg-asphalt border border-bronze/30 flex items-center justify-center text-bronze shrink-0">
+              <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                <circle cx="12" cy="10" r="3" />
+              </svg>
+            </span>
+            <span class="text-alabaster font-medium">7C7H+37F، شارع حاتم الطائي، Berrechid</span>
+          </div>
+          <div class="flex items-center gap-2 text-xs text-bronze/90">
+            <span class="px-2.5 py-1 rounded-md bg-bronze/10 border border-bronze/25 font-latin">Plus Code: 7C7H+37F</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== ABOUT & APPROACH SECTION ==================== -->
+  <section id="about" class="relative py-20 sm:py-28 bg-asphalt border-y border-bronze/15 geo-pattern overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid lg:grid-cols-12 gap-12 items-center">
+        
+        <!-- Left/Start Column: Editorial Narrative -->
+        <div class="lg:col-span-7 space-y-6">
+          <div class="inline-flex items-center gap-2 text-bronze text-xs font-bold uppercase tracking-widest">
+            <span class="w-8 h-px bg-bronze"></span>
+            <span data-ar="نبذة عن المكتب" data-fr="À propos de l'établissement">نبذة عن المكتب</span>
+          </div>
+
+          <h2
+            class="text-2xl sm:text-4xl font-bold text-alabaster leading-tight"
+            data-ar="وجهة محلية متكاملة لتأجير واقتناء المركبات في برشيد"
+            data-fr="Votre partenaire automobile local à Berrechid"
+          >
+            وجهة محلية متكاملة لتأجير واقتناء المركبات في برشيد
+          </h2>
+
+          <p
+            class="text-slateSteel text-base sm:text-lg leading-relaxed"
+            data-ar="يقع مكتب تأجير السيارات حنيف أكار في موقع يسهل الوصول إليه بشارع حاتم الطائي في مدينة برشيد، ويقدم خدماته للأفراد والمهنيين الباحثين عن مركبات ذات محرك سواء بغرض الكراء اليومي أو التنقلات المنتظمة."
+            data-fr="Situé sur l'avenue Hatim Tai à Berrechid, مكتب تأجير السيارات حنيف أكار accompagne les particuliers et professionnels dans leurs besoins de mobilité et de véhicules à moteur."
+          >
+            يقع مكتب تأجير السيارات حنيف أكار في موقع يسهل الوصول إليه بشارع حاتم الطائي في مدينة برشيد، ويقدم خدماته للأفراد والمهنيين الباحثين عن مركبات ذات محرك سواء بغرض الكراء اليومي أو التنقلات المنتظمة.
+          </p>
+
+          <p
+            class="text-slateSteel text-base leading-relaxed"
+            data-ar="نعتمد مقاربة واضحة ومباشرة في استقبال الزبناء داخل الوكالة، مع مرافقة شخصية لاختيار المركبة الأنسب لطبيعة تنقلاتكم داخل برشيد أو نحو مختلف المدن المغربية."
+            data-fr="Nous privilégions un accueil direct en agence et un accompagnement personnalisé afin d'orienter chaque client vers la solution la plus adaptée à ses déplacements à Berrechid et à travers le Maroc."
+          >
+            نعتمد مقاربة واضحة ومباشرة في استقبال الزبناء داخل الوكالة، مع مرافقة شخصية لاختيار المركبة الأنسب لطبيعة تنقلاتكم داخل برشيد أو نحو مختلف المدن المغربية.
+          </p>
+
+          <!-- Key Pillars (Factual / Category-grounded) -->
+          <div class="grid sm:grid-cols-3 gap-4 pt-4">
+            <div class="p-4 rounded-2xl bg-obsidian/70 border border-white/10">
+              <div class="text-bronze font-bold text-sm mb-1" data-ar="موقع مركزي" data-fr="Accès Direct">موقع مركزي</div>
+              <p class="text-xs text-slateSteel leading-relaxed" data-ar="تواجد مباشر على شارع حاتم الطائي بمدينة برشيد." data-fr="Implanté directement sur l'avenue Hatim Tai à Berrechid.">
+                تواجد مباشر على شارع حاتم الطائي بمدينة برشيد.
+              </p>
+            </div>
+            <div class="p-4 rounded-2xl bg-obsidian/70 border border-white/10">
+              <div class="text-bronze font-bold text-sm mb-1" data-ar="تأجير ومركبات" data-fr="Location & Véhicules">تأجير ومركبات</div>
+              <p class="text-xs text-slateSteel leading-relaxed" data-ar="خدمات كراء السيارات والمركبات ذات المحرك." data-fr="Solutions de location et de véhicules à moteur.">
+                خدمات كراء السيارات والمركبات ذات المحرك.
+              </p>
+            </div>
+            <div class="p-4 rounded-2xl bg-obsidian/70 border border-white/10">
+              <div class="text-bronze font-bold text-sm mb-1" data-ar="استقبال مباشر" data-fr="Accueil en Agence">استقبال مباشر</div>
+              <p class="text-xs text-slateSteel leading-relaxed" data-ar="معاينة ميدانية واستشارة مباشرة في مقر الوكالة." data-fr="Présentation sur place et conseil personnalisé en agence.">
+                معاينة ميدانية واستشارة مباشرة في مقر الوكالة.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right/End Column: Custom Architectural Vehicle Illustration Card with Parallax Depth -->
+        <div class="lg:col-span-5 parallax-layer" data-parallax-speed="0.06">
+          <div class="relative rounded-3xl bg-obsidian border border-bronze/30 p-6 sm:p-8 shadow-2xl overflow-hidden">
+            <div class="flex items-center justify-between mb-6">
+              <span class="text-xs font-latin uppercase tracking-widest text-bronze">BERRECHID • MAROC</span>
+              <span class="text-xs font-latin text-slateSteel">7C7H+37F</span>
+            </div>
+
+            <!-- Featured Agency Showroom Showcase Photo -->
+            <div class="relative rounded-2xl bg-charcoal overflow-hidden border border-white/10 mb-6 aspect-[16/10] group">
+              <img
+                src="Capture d’écran_23-11-2026_19173_web.facebook.com.jpeg"
+                alt="مكتب تأجير السيارات حنيف أكار — صالة العرض"
+                class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700"
+                onerror="this.onerror=null;this.src='https://placehold.co/800x500/131822/C89B54?text=%D8%AD%D9%86%D9%8A%D9%81+%D8%A3%D9%83%D8%A7%D8%B1';"
+              />
+              <div class="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent"></div>
+              <div class="absolute bottom-3 inset-x-4 flex items-center justify-between text-xs">
+                <span class="px-2.5 py-1 rounded-lg bg-obsidian/85 border border-bronze/35 text-bronze font-semibold" data-ar="تشكيلة متنوعة في الوكالة" data-fr="Sélection en agence">
+                  تشكيلة متنوعة في الوكالة
+                </span>
+                <span class="text-alabaster/90 font-latin">Berrechid</span>
+              </div>
+            </div>
+
+            <div class="space-y-2">
+              <h3 class="text-lg font-bold text-alabaster">مكتب تأجير السيارات حنيف أكار</h3>
+              <p class="text-sm text-slateSteel font-latin" dir="ltr">Concessionnaire de véhicules à moteur</p>
+              <div class="pt-3 flex items-center justify-between text-xs text-bronze border-t border-white/10">
+                <span data-ar="شارع حاتم الطائي، برشيد" data-fr="Avenue Hatim Tai, Berrechid">شارع حاتم الطائي، برشيد</span>
+                <a
+                  href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="underline hover:text-bronzeLight"
+                  data-ar="فتح الخريطة ←"
+                  data-fr="Ouvrir la carte →"
+                >
+                  فتح الخريطة ←
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== FLEET & SHOWROOM GALLERY SECTION ==================== -->
+  <section id="fleet-gallery" class="py-20 sm:py-28 bg-obsidian border-b border-bronze/15 relative">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Gallery Header & Category Filter Controls -->
+      <div class="flex flex-col lg:flex-row lg:items-end justify-between gap-8 mb-12">
+        <div class="max-w-2xl">
+          <div class="inline-flex items-center gap-2 text-bronze text-xs font-bold uppercase tracking-widest mb-3">
+            <span class="w-8 h-px bg-bronze"></span>
+            <span data-ar="معرض المركبات" data-fr="Galerie des Véhicules">معرض المركبات</span>
+          </div>
+          <h2
+            class="text-2xl sm:text-4xl font-bold text-alabaster mb-3"
+            data-ar="تشكيلة السيارات والمركبات المعروضة"
+            data-fr="Notre sélection de véhicules & showroom"
+          >
+            تشكيلة السيارات والمركبات المعروضة
+          </h2>
+          <p
+            class="text-slateSteel text-sm sm:text-base leading-relaxed"
+            data-ar="استعرضوا نماذج من المركبات الرياضية، سيارات الدفع الرباعي الفاخرة، والسيارات الحضرية المتوفرة لدى مكتب تأجير السيارات حنيف أكار."
+            data-fr="Découvrez un aperçu des SUV de prestige, coupés sportifs, berlines et citadines présentés par مكتب تأجير السيارات حنيف أكار."
+          >
+            استعرضوا نماذج من المركبات الرياضية، سيارات الدفع الرباعي الفاخرة، والسيارات الحضرية المتوفرة لدى مكتب تأجير السيارات حنيف أكار.
+          </p>
+        </div>
+
+        <!-- Category Filter Pills -->
+        <div id="fleet-filters" class="flex flex-wrap items-center gap-2.5" role="tablist" aria-label="تصفية المركبات">
+          <button
+            type="button"
+            data-filter="all"
+            class="fleet-filter-btn active px-4 py-2.5 rounded-xl text-xs sm:text-sm font-bold bg-bronze text-obsidian border border-bronze transition-all cursor-pointer"
+            data-ar="الكل (10)"
+            data-fr="Tout (10)"
+          >
+            الكل (10)
+          </button>
+          <button
+            type="button"
+            data-filter="suv"
+            class="fleet-filter-btn px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold bg-asphalt text-alabaster border border-white/10 hover:border-bronze/50 transition-all cursor-pointer"
+            data-ar="SUV ودفع رباعي"
+            data-fr="SUV & 4x4"
+          >
+            SUV ودفع رباعي
+          </button>
+          <button
+            type="button"
+            data-filter="sport"
+            class="fleet-filter-btn px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold bg-asphalt text-alabaster border border-white/10 hover:border-bronze/50 transition-all cursor-pointer"
+            data-ar="رياضية وفخمة"
+            data-fr="Sport & Prestige"
+          >
+            رياضية وفخمة
+          </button>
+          <button
+            type="button"
+            data-filter="city"
+            class="fleet-filter-btn px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold bg-asphalt text-alabaster border border-white/10 hover:border-bronze/50 transition-all cursor-pointer"
+            data-ar="سيدان وحضرية"
+            data-fr="Citadines & Berlines"
+          >
+            سيدان وحضرية
+          </button>
+          <button
+            type="button"
+            data-filter="showroom"
+            class="fleet-filter-btn px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold bg-asphalt text-alabaster border border-white/10 hover:border-bronze/50 transition-all cursor-pointer"
+            data-ar="صالة العرض"
+            data-fr="Showroom"
+          >
+            صالة العرض
+          </button>
+        </div>
+      </div>
+
+      <!-- Responsive Fleet Photo Grid (All 10 Uploaded Photos) -->
+      <div id="fleet-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Populated cleanly via JS array containing all 10 exact filenames for synchronized lightbox navigation -->
+      </div>
+
+      <!-- Bottom Agency Visit Banner -->
+      <div class="mt-12 rounded-3xl bg-asphalt border border-bronze/25 p-6 sm:p-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
+        <div class="space-y-1">
+          <h3
+            class="text-lg sm:text-xl font-bold text-alabaster"
+            data-ar="هل ترغبون في معاينة المركبات مباشرة في مقرنا؟"
+            data-fr="Vous souhaitez découvrir nos véhicules directement sur place ?"
+          >
+            هل ترغبون في معاينة المركبات مباشرة في مقرنا؟
+          </h3>
+          <p
+            class="text-sm text-slateSteel"
+            data-ar="تفضلوا بزيارة مكتب تأجير السيارات حنيف أكار في 7C7H+37F، شارع حاتم الطائي، برشيد."
+            data-fr="Rendez-vous chez مكتب تأجير السيارات حنيف أكار au 7C7H+37F، شارع حاتم الطائي, Berrechid."
+          >
+            تفضلوا بزيارة مكتب تأجير السيارات حنيف أكار في 7C7H+37F، شارع حاتم الطائي، برشيد.
+          </p>
+        </div>
+        <a
+          href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2.5 px-6 py-3.5 rounded-2xl bg-bronze text-obsidian font-bold text-sm hover:bg-bronzeLight transition-all shrink-0 shadow-lg shadow-bronze/20"
+        >
+          <svg class="w-4 h-4 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+            <polygon points="3 11 22 2 13 21 11 13 3 11" />
+          </svg>
+          <span data-ar="الاتجاهات إلى الوكالة" data-fr="Itinéraire vers l'agence">الاتجاهات إلى الوكالة</span>
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ==================== LIGHTBOX MODAL FOR PHOTO INSPECTION ==================== -->
+  <div
+    id="fleet-lightbox"
+    class="fixed inset-0 z-50 hidden bg-obsidian/95 backdrop-blur-xl flex items-center justify-center p-4 sm:p-8"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="lightbox-title"
+  >
+    <div class="relative w-full max-w-5xl rounded-3xl bg-asphalt border border-bronze/35 overflow-hidden shadow-2xl">
+      <!-- Top Bar -->
+      <div class="flex items-center justify-between px-5 py-4 border-b border-white/10">
+        <div>
+          <span id="lightbox-category" class="text-xs font-semibold text-bronze block"></span>
+          <h3 id="lightbox-title" class="text-base sm:text-lg font-bold text-alabaster"></h3>
+        </div>
+        <div class="flex items-center gap-3">
+          <span id="lightbox-counter" class="text-xs font-latin text-slateSteel"></span>
+          <button
+            id="lightbox-close"
+            type="button"
+            aria-label="Close modal"
+            class="w-10 h-10 rounded-xl bg-obsidian border border-white/15 text-alabaster hover:border-bronze hover:text-bronze flex items-center justify-center transition-colors cursor-pointer"
+          >
+            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18" />
+              <line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Image Viewport -->
+      <div class="relative bg-obsidian flex items-center justify-center max-h-[70vh] overflow-hidden">
+        <img
+          id="lightbox-img"
+          src=""
+          alt=""
+          class="max-h-[70vh] w-auto max-w-full object-contain select-none"
+        />
+
+        <!-- Prev / Next Buttons -->
+        <button
+          id="lightbox-prev"
+          type="button"
+          aria-label="Previous vehicle photo"
+          class="absolute start-3 sm:start-5 top-1/2 -translate-y-1/2 w-11 h-11 rounded-2xl bg-obsidian/85 border border-bronze/40 text-alabaster hover:bg-bronze hover:text-obsidian flex items-center justify-center transition-all cursor-pointer shadow-lg"
+        >
+          <svg class="w-5 h-5 rtl:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6" />
+          </svg>
+        </button>
+
+        <button
+          id="lightbox-next"
+          type="button"
+          aria-label="Next vehicle photo"
+          class="absolute end-3 sm:end-5 top-1/2 -translate-y-1/2 w-11 h-11 rounded-2xl bg-obsidian/85 border border-bronze/40 text-alabaster hover:bg-bronze hover:text-obsidian flex items-center justify-center transition-all cursor-pointer shadow-lg"
+        >
+          <svg class="w-5 h-5 rtl:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="9 18 15 12 9 6" />
+          </svg>
+        </button>
+      </div>
+
+      <!-- Bottom Caption & Direct Agency Directions CTA -->
+      <div class="px-5 py-4 bg-asphalt border-t border-white/10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+        <p id="lightbox-desc" class="text-xs sm:text-sm text-slateSteel"></p>
+        <a
+          href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-bronze text-obsidian font-bold text-xs hover:bg-bronzeLight transition-colors shrink-0"
+        >
+          <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+            <polygon points="3 11 22 2 13 21 11 13 3 11" />
+          </svg>
+          <span data-ar="الاتجاهات إلى الوكالة" data-fr="Itinéraire vers l'agence">الاتجاهات إلى الوكالة</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== SERVICES & FLEET CATEGORIES ==================== -->
+  <section id="services" class="py-20 sm:py-28 bg-obsidian relative">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <!-- Section Header -->
+      <div class="max-w-2xl mb-14">
+        <div class="inline-flex items-center gap-2 text-bronze text-xs font-bold uppercase tracking-widest mb-3">
+          <span class="w-8 h-px bg-bronze"></span>
+          <span data-ar="مجالات الخدمة" data-fr="Nos Prestations">مجالات الخدمة</span>
+        </div>
+        <h2
+          class="text-2xl sm:text-4xl font-bold text-alabaster mb-4"
+          data-ar="خدمات تأجير السيارات والمركبات ذات المحرك"
+          data-fr="Location de voitures & véhicules à moteur"
+        >
+          خدمات تأجير السيارات والمركبات ذات المحرك
+        </h2>
+        <p
+          class="text-slateSteel text-base leading-relaxed"
+          data-ar="نضع رهن إشارتكم خيارات متنوعة تلائم التنقل الحضري، الرحلات العائلية، والاحتياجات المهنية انطلاقاً من مقرنا في برشيد."
+          data-fr="Des solutions adaptées aux déplacements urbains, trajets familiaux et besoins professionnels au départ de notre agence de Berrechid."
+        >
+          نضع رهن إشارتكم خيارات متنوعة تلائم التنقل الحضري، الرحلات العائلية، والاحتياجات المهنية انطلاقاً من مقرنا في برشيد.
+        </p>
+      </div>
+
+      <!-- 4 Category Cards (Strictly neutral, zero fabricated prices or claims) -->
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        
+        <!-- Card 1 -->
+        <article class="group rounded-3xl bg-asphalt border border-white/10 hover:border-bronze/50 p-6 transition-all duration-300 flex flex-col justify-between">
+          <div>
+            <div class="w-12 h-12 rounded-2xl bg-obsidian border border-bronze/30 flex items-center justify-center text-bronze mb-6 group-hover:scale-105 transition-transform">
+              <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
+                <line x1="16" y1="2" x2="16" y2="6" />
+                <line x1="8" y1="2" x2="8" y2="6" />
+                <line x1="3" y1="10" x2="21" y2="10" />
+              </svg>
+            </div>
+            <h3 class="text-lg font-bold text-alabaster mb-2.5" data-ar="كراء السيارات قصير المدى" data-fr="Location courte durée">
+              كراء السيارات قصير المدى
+            </h3>
+            <p class="text-sm text-slateSteel leading-relaxed" data-ar="تأجير يومي أو أسبوعي للمركبات لتلبية تنقلاتكم السريعة داخل مدينة برشيد وضواحيها." data-fr="Formules de location à la journée ou à la semaine pour vos déplacements ponctuels à Berrechid et ses environs.">
+              تأجير يومي أو أسبوعي للمركبات لتلبية تنقلاتكم السريعة داخل مدينة برشيد وضواحيها.
+            </p>
+          </div>
+          <div class="mt-6 pt-4 border-t border-white/5 text-xs font-semibold text-bronze" data-ar="متوفر بالوكالة" data-fr="Disponible en agence">
+            متوفر بالوكالة
+          </div>
+        </article>
+
+        <!-- Card 2 -->
+        <article class="group rounded-3xl bg-asphalt border border-white/10 hover:border-bronze/50 p-6 transition-all duration-300 flex flex-col justify-between">
+          <div>
+            <div class="w-12 h-12 rounded-2xl bg-obsidian border border-bronze/30 flex items-center justify-center text-bronze mb-6 group-hover:scale-105 transition-transform">
+              <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M14 16H9m10 0h3v-3.15a1 1 0 0 0-.84-.99L16 11l-2.7-3.6a1 1 0 0 0-.8-.4H5.24a2 2 0 0 0-1.8 1.1l-.8 1.63A6 6 0 0 0 2 12.42V16h2" />
+                <circle cx="6.5" cy="16.5" r="2.5" />
+                <circle cx="16.5" cy="16.5" r="2.5" />
+              </svg>
+            </div>
+            <h3 class="text-lg font-bold text-alabaster mb-2.5" data-ar="المركبات ذات المحرك" data-fr="Véhicules à moteur">
+              المركبات ذات المحرك
+            </h3>
+            <p class="text-sm text-slateSteel leading-relaxed" data-ar="مواكبة المهتمين باقتناء أو استبدال المركبات ذات المحرك عبر المعاينة المباشرة في المقر." data-fr="Accompagnement pour l'acquisition et la présentation de véhicules à moteur directement sur place.">
+              مواكبة المهتمين باقتناء أو استبدال المركبات ذات المحرك عبر المعاينة المباشرة في المقر.
+            </p>
+          </div>
+          <div class="mt-6 pt-4 border-t border-white/5 text-xs font-semibold text-bronze" data-ar="معاينة ميدانية" data-fr="Présentation sur place">
+            معاينة ميدانية
+          </div>
+        </article>
+
+        <!-- Card 3 -->
+        <article class="group rounded-3xl bg-asphalt border border-white/10 hover:border-bronze/50 p-6 transition-all duration-300 flex flex-col justify-between">
+          <div>
+            <div class="w-12 h-12 rounded-2xl bg-obsidian border border-bronze/30 flex items-center justify-center text-bronze mb-6 group-hover:scale-105 transition-transform">
+              <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <rect x="2" y="7" width="20" height="14" rx="2" ry="2" />
+                <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" />
+              </svg>
+            </div>
+            <h3 class="text-lg font-bold text-alabaster mb-2.5" data-ar="التنقلات المهنية" data-fr="Mobilité professionnelle">
+              التنقلات المهنية
+            </h3>
+            <p class="text-sm text-slateSteel leading-relaxed" data-ar="صيغ تأجير مرنة مخصصة للمقاولات والمهنيين العاملين في جهة برشيد والدار البيضاء-سطات." data-fr="Solutions flexibles adaptées aux déplacements professionnels dans la région de Berrechid et Casablanca-Settat.">
+              صيغ تأجير مرنة مخصصة للمقاولات والمهنيين العاملين في جهة برشيد والدار البيضاء-سطات.
+            </p>
+          </div>
+          <div class="mt-6 pt-4 border-t border-white/5 text-xs font-semibold text-bronze" data-ar="عقود مرنة" data-fr="Formules flexibles">
+            عقود مرنة
+          </div>
+        </article>
+
+        <!-- Card 4 -->
+        <article class="group rounded-3xl bg-asphalt border border-white/10 hover:border-bronze/50 p-6 transition-all duration-300 flex flex-col justify-between">
+          <div>
+            <div class="w-12 h-12 rounded-2xl bg-obsidian border border-bronze/30 flex items-center justify-center text-bronze mb-6 group-hover:scale-105 transition-transform">
+              <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="10" />
+                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76" />
+              </svg>
+            </div>
+            <h3 class="text-lg font-bold text-alabaster mb-2.5" data-ar="السفر بين المدن" data-fr="Trajets longue distance">
+              السفر بين المدن
+            </h3>
+            <p class="text-sm text-slateSteel leading-relaxed" data-ar="مركبات مهيأة للرحلات الطويلة والتنقلات العائلية عبر الشبكة الطرقية انطلاقاً من برشيد." data-fr="Véhicules adaptés aux trajets interurbains et déplacements familiaux au départ de Berrechid.">
+              مركبات مهيأة للرحلات الطويلة والتنقلات العائلية عبر الشبكة الطرقية انطلاقاً من برشيد.
+            </p>
+          </div>
+          <div class="mt-6 pt-4 border-t border-white/5 text-xs font-semibold text-bronze" data-ar="انطلاق من برشيد" data-fr="Départ Berrechid">
+            انطلاق من برشيد
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== LOCATION & INTERACTIVE DIRECTIONS CARD ==================== -->
+  <section id="location" class="py-20 sm:py-28 bg-asphalt border-t border-bronze/15 relative overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="rounded-3xl bg-obsidian border border-bronze/30 overflow-hidden shadow-2xl grid lg:grid-cols-12">
+        
+        <!-- Location Details Column -->
+        <div class="lg:col-span-6 p-8 sm:p-12 flex flex-col justify-between space-y-8">
+          <div class="space-y-4">
+            <div class="inline-flex items-center gap-2 text-bronze text-xs font-bold uppercase tracking-widest">
+              <span class="w-8 h-px bg-bronze"></span>
+              <span data-ar="الموقع الجغرافي" data-fr="Localisation & Accès">الموقع الجغرافي</span>
+            </div>
+
+            <h2
+              class="text-2xl sm:text-3xl font-bold text-alabaster"
+              data-ar="زيارتنا في برشيد"
+              data-fr="Nous trouver à Berrechid"
+            >
+              زيارتنا في برشيد
+            </h2>
+
+            <p
+              class="text-slateSteel text-sm sm:text-base leading-relaxed"
+              data-ar="يمكنكم التوجه مباشرة إلى مقر مكتب تأجير السيارات حنيف أكار باستخدام العنوان الرسمي أو رمز الموقع عبر خرائط جوجل."
+              data-fr="Rejoignez directement l'agence مكتب تأجير السيارات حنيف أكار via l'adresse officielle ou le Plus Code sur Google Maps."
+            >
+              يمكنكم التوجه مباشرة إلى مقر مكتب تأجير السيارات حنيف أكار باستخدام العنوان الرسمي أو رمز الموقع عبر خرائط جوجل.
+            </p>
+          </div>
+
+          <!-- Address Box -->
+          <div class="space-y-4">
+            <div class="p-5 rounded-2xl bg-asphalt border border-white/10 space-y-3">
+              <div class="flex items-start gap-3.5">
+                <div class="w-10 h-10 rounded-xl bg-bronze/15 border border-bronze/30 flex items-center justify-center text-bronze shrink-0 mt-0.5">
+                  <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                    <circle cx="12" cy="10" r="3" />
+                  </svg>
+                </div>
+                <div class="space-y-1 flex-1">
+                  <div class="text-xs text-slateSteel" data-ar="العنوان المسجل" data-fr="Adresse enregistrée">العنوان المسجل</div>
+                  <div class="text-base sm:text-lg font-bold text-alabaster select-all" id="address-text">
+                    7C7H+37F، شارع حاتم الطائي, Berrechid
+                  </div>
+                  <div class="text-xs text-slateSteel font-latin" dir="ltr">
+                    Rue Hatim Tai, Berrechid, Maroc
+                  </div>
+                </div>
+              </div>
+
+              <!-- Copy Address Utility (Using document.execCommand fallback for iframe safety) -->
+              <div class="pt-3 border-t border-white/10 flex flex-wrap items-center justify-between gap-3">
+                <button
+                  id="copy-address-btn"
+                  type="button"
+                  class="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-obsidian hover:bg-charcoal text-xs font-semibold text-alabaster border border-white/15 transition-colors cursor-pointer"
+                >
+                  <svg class="w-3.5 h-3.5 text-bronze" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+                    <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+                  </svg>
+                  <span id="copy-address-label" data-ar="نسخ العنوان" data-fr="Copier l'adresse">نسخ العنوان</span>
+                </button>
+
+                <span id="copy-feedback" class="text-xs text-bronze font-medium hidden" role="status"></span>
+              </div>
+            </div>
+
+            <!-- Primary Google Maps Directions Button -->
+            <a
+              href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-full inline-flex items-center justify-center gap-3 px-6 py-4 rounded-2xl bg-bronze text-obsidian font-bold text-base hover:bg-bronzeLight transition-all shadow-lg shadow-bronze/20"
+            >
+              <svg class="w-5 h-5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <polygon points="3 11 22 2 13 21 11 13 3 11" />
+              </svg>
+              <span data-ar="بدء الملاحة عبر خرائط جوجل (Itinéraire)" data-fr="Démarrer l'itinéraire Google Maps">
+                بدء الملاحة عبر خرائط جوجل (Itinéraire)
+              </span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Stylised Interactive Urban Map Schematic Column -->
+        <div class="lg:col-span-6 relative min-h-[340px] bg-charcoal border-t lg:border-t-0 lg:border-s border-bronze/20 flex items-center justify-center p-6 overflow-hidden">
+          <!-- Architectural Urban Street Grid SVG -->
+          <svg class="absolute inset-0 w-full h-full object-cover" viewBox="0 0 600 460" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect width="600" height="460" fill="#131822" />
+            <!-- Urban Blocks -->
+            <rect x="40" y="40" width="160" height="110" rx="12" fill="#1B2230" />
+            <rect x="240" y="40" width="150" height="110" rx="12" fill="#1B2230" />
+            <rect x="430" y="40" width="130" height="110" rx="12" fill="#1B2230" />
+            <rect x="40" y="210" width="160" height="100" rx="12" fill="#1B2230" />
+            <rect x="240" y="210" width="150" height="100" rx="12" fill="#1B2230" />
+            <rect x="430" y="210" width="130" height="100" rx="12" fill="#1B2230" />
+            <rect x="40" y="340" width="240" height="90" rx="12" fill="#1B2230" />
+            <rect x="320" y="340" width="240" height="90" rx="12" fill="#1B2230" />
+
+            <!-- Primary Avenue: شارع حاتم الطائي -->
+            <line x1="0" y1="180" x2="600" y2="180" stroke="#C89B54" stroke-opacity="0.55" stroke-width="10" />
+            <line x1="0" y1="180" x2="600" y2="180" stroke="#F8F7F4" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="10 10" />
+
+            <!-- Cross Streets -->
+            <line x1="220" y1="0" x2="220" y2="460" stroke="#293347" stroke-width="8" />
+            <line x1="410" y1="0" x2="410" y2="460" stroke="#293347" stroke-width="8" />
+
+            <!-- Street Label -->
+            <text x="115" y="172" fill="#DFBA78" font-family="Cairo, sans-serif" font-size="13" font-weight="700">شارع حاتم الطائي</text>
+            <text x="455" y="198" fill="#8F9BB0" font-family="Plus Jakarta Sans, sans-serif" font-size="11">BERRECHID</text>
+          </svg>
+
+          <!-- Interactive Destination Pin Card -->
+          <a
+            href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="relative z-10 group flex flex-col items-center text-center max-w-xs"
+          >
+            <div class="relative mb-3">
+              <span class="absolute -inset-3 rounded-full bg-bronze/25 animate-ping"></span>
+              <div class="relative w-14 h-14 rounded-2xl bg-bronze text-obsidian flex items-center justify-center shadow-xl shadow-bronze/40 group-hover:scale-110 transition-transform">
+                <svg class="w-7 h-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" aria-hidden="true">
+                  <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                  <circle cx="12" cy="10" r="3" />
+                </svg>
+              </div>
+            </div>
+            <div class="glass-panel px-5 py-3.5 rounded-2xl shadow-xl border border-bronze/40">
+              <div class="text-sm font-bold text-alabaster">مكتب تأجير السيارات حنيف أكار</div>
+              <div class="text-xs text-bronze mt-0.5 font-latin">7C7H+37F • Berrechid</div>
+              <div class="mt-2 inline-flex items-center gap-1.5 text-[11px] font-semibold text-alabaster/90 group-hover:text-bronze transition-colors">
+                <span data-ar="انقر لفتح المسار في خرائط جوجل" data-fr="Cliquer pour ouvrir Google Maps">انقر لفتح المسار في خرائط جوجل</span>
+              </div>
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ==================== FOOTER ==================== -->
+  <footer class="bg-obsidian border-t border-white/10 py-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-8 pb-8 border-b border-white/10">
+        
+        <!-- Brand Identity -->
+        <div class="flex items-center gap-3.5">
+          <div class="w-10 h-10 rounded-xl bg-asphalt border border-bronze/40 flex items-center justify-center shrink-0">
+            <svg class="w-6 h-6" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <polygon points="32,6 58,32 32,58 6,32" stroke="#C89B54" stroke-width="2.5" />
+              <circle cx="32" cy="32" r="12" stroke="#F8F7F4" stroke-width="2.2" />
+              <path d="M20 32H44M32 32V44" stroke="#C89B54" stroke-width="2.4" stroke-linecap="round" />
+            </svg>
+          </div>
+          <div>
+            <div class="text-base font-bold text-alabaster">مكتب تأجير السيارات حنيف أكار</div>
+            <div class="text-xs text-bronze font-latin" dir="ltr">Concessionnaire de véhicules à moteur • Berrechid</div>
+          </div>
+        </div>
+
+        <!-- Direct Map Link -->
+        <div class="flex flex-wrap items-center gap-4">
+          <a
+            href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-asphalt hover:bg-charcoal border border-bronze/35 text-sm font-semibold text-alabaster transition-colors"
+          >
+            <svg class="w-4 h-4 text-bronze" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+              <circle cx="12" cy="10" r="3" />
+            </svg>
+            <span>7C7H+37F، شارع حاتم الطائي، Berrechid</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slateSteel">
+        <div>
+          © <span id="current-year"></span> مكتب تأجير السيارات حنيف أكار — Berrechid.
+        </div>
+        <div class="font-latin" dir="ltr">
+          Concessionnaire de véhicules à moteur • 7C7H+37F, Berrechid
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ==================== INTERACTIVE SCRIPT: HERO CANVAS, PARALLAX & BILINGUAL TOGGLE ==================== -->
+  <script>
+    (function () {
+      'use strict';
+
+      // 1. Set current year in footer
+      const yearEl = document.getElementById('current-year');
+      if (yearEl) {
+        yearEl.textContent = new Date().getFullYear();
+      }
+
+      // 2. Bilingual Arabic (RTL) / French (LTR) Toggle
+      const langToggleBtn = document.getElementById('lang-toggle');
+      let currentLang = 'ar';
+
+      function applyLanguage(lang) {
+        currentLang = lang;
+        const html = document.documentElement;
+        html.setAttribute('lang', lang);
+        html.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+
+        if (langToggleBtn) {
+          langToggleBtn.textContent = lang === 'ar' ? 'Français' : 'العربية';
+        }
+
+        document.querySelectorAll('[data-ar][data-fr]').forEach((el) => {
+          el.textContent = el.getAttribute(lang === 'ar' ? 'data-ar' : 'data-fr');
+        });
+
+        renderFleetGrid(activeFilter);
+        if (lightboxEl && !lightboxEl.classList.contains('hidden')) {
+          updateLightboxContent();
+        }
+      }
+
+      if (langToggleBtn) {
+        langToggleBtn.addEventListener('click', () => {
+          applyLanguage(currentLang === 'ar' ? 'fr' : 'ar');
+        });
+      }
+
+      // 2B. Fleet Gallery Data (All 10 Uploaded Photos) & Interactive Lightbox
+      const fleetItems = [
+        {
+          src: 'Capture d’écran_23-11-2026_191822_web.facebook.com.jpg',
+          category: 'suv',
+          catAr: 'SUV ودفع رباعي',
+          catFr: 'SUV & 4x4',
+          titleAr: 'مرسيدس-AMG الفئة G — أسود',
+          titleFr: 'Mercedes-AMG Classe G — Noir',
+          descAr: 'سيارة دفع رباعي فاخرة بتصميم أيقوني وحضور قوي متوفرة ضمن تشكيلة الوكالة.',
+          descFr: 'SUV de prestige au design emblématique présenté au sein de notre sélection.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_192213_web.facebook.com.jpeg',
+          category: 'suv',
+          catAr: 'SUV ودفع رباعي',
+          catFr: 'SUV & 4x4',
+          titleAr: 'مازيراتي ليفانتي — أسود',
+          titleFr: 'Maserati Levante — Noir',
+          descAr: 'سيارة رياضية متعددة الاستخدامات تجمع بين الفخامة الإيطالية والراحة في التنقل.',
+          descFr: 'SUV italien alliant raffinement, espace et dynamisme sur route.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_192051_web.facebook.com.jpeg',
+          category: 'sport',
+          catAr: 'رياضية وفخمة',
+          catFr: 'Sport & Prestige',
+          titleAr: 'فيراري 488 GTB — أحمر',
+          titleFr: 'Ferrari 488 GTB — Rouge',
+          descAr: 'سيارة رياضية استثنائية بمقصورة جلدية فاخرة للمناسبات الخاصة.',
+          descFr: 'Coupé sportif d’exception avec intérieur cuir pour vos événements spéciaux.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_191933_web.facebook.com.jpg',
+          category: 'suv',
+          catAr: 'SUV ودفع رباعي',
+          catFr: 'SUV & 4x4',
+          titleAr: 'رينج روفر أوتوبيوغرافي — أبيض',
+          titleFr: 'Range Rover Autobiography — Blanc',
+          descAr: 'سيارة دفع رباعي رحبة بتشطيبات راقية ومقصورة VIP مريحة.',
+          descFr: 'SUV grand confort aux finitions soignées et habitacle spacieux.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_192026_web.facebook.com.jpg',
+          category: 'city',
+          catAr: 'سيدان وحضرية',
+          catFr: 'Citadines & Berlines',
+          titleAr: 'مازيراتي جيبلي — أسود',
+          titleFr: 'Maserati Ghibli — Noir',
+          descAr: 'سيدان رياضية أنيقة مناسبة للتنقلات المهنية والرحلات بين المدن.',
+          descFr: 'Berline statutaire élégante adaptée aux déplacements professionnels et interurbains.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_19173_web.facebook.com.jpeg',
+          category: 'suv',
+          catAr: 'SUV ودفع رباعي',
+          catFr: 'SUV & 4x4',
+          titleAr: 'بيجو 3008 فاست باك — أبيض',
+          titleFr: 'Peugeot 3008 Fastback — Blanc',
+          descAr: 'سيارة كروس أوفر عصرية في صالة العرض بتصميم انسيابي وتجهيزات حديثة.',
+          descFr: 'SUV moderne à silhouette fastback présenté en showroom.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_19218_web.facebook.com.jpeg',
+          category: 'suv',
+          catAr: 'SUV ودفع رباعي',
+          catFr: 'SUV & 4x4',
+          titleAr: 'جيب غراند شيروكي — أسود',
+          titleFr: 'Jeep Grand Cherokee — Noir',
+          descAr: 'سيارة دفع رباعي متينة ومريحة للرحلات الطويلة والتنقلات العائلية.',
+          descFr: 'SUV robuste et spacieux conçu pour les longs trajets et déplacements familiaux.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_192131_web.facebook.com.jpeg',
+          category: 'sport',
+          catAr: 'رياضية وفخمة',
+          catFr: 'Sport & Prestige',
+          titleAr: 'فيراري 488 GTB — عرض جانبي وخلفي',
+          titleFr: 'Ferrari 488 GTB — Profil & Arrière',
+          descAr: 'إطلالة مزدوجة تبرز الخطوط الديناميكية للسيارة الرياضية داخل صالة العرض.',
+          descFr: 'Double vue mettant en valeur les lignes aérodynamiques du coupé en showroom.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_192230_web.facebook.com.jpeg',
+          category: 'city',
+          catAr: 'سيدان وحضرية',
+          catFr: 'Citadines & Berlines',
+          titleAr: 'رينو كليو 4 — أحمر',
+          titleFr: 'Renault Clio 4 — Rouge',
+          descAr: 'سيارة هاتشباك عملية واقتصادية مثالية للتنقل اليومي داخل برشيد.',
+          descFr: 'Citadine polyvalente et maniable, idéale pour les déplacements quotidiens à Berrechid.'
+        },
+        {
+          src: 'Capture d’écran_23-11-2026_192310_web.facebook.com.jpg',
+          category: 'showroom',
+          catAr: 'صالة العرض',
+          catFr: 'Showroom',
+          titleAr: 'تشكيلة صالة العرض المتنوعة',
+          titleFr: 'Collection Multi-Véhicules Showroom',
+          descAr: 'نظرة شاملة على مجموعة من السيارات المعروضة: فولكس فاجن جولف، أودي A1، رينج روفر، بورش، وبي إم دبليو.',
+          descFr: 'Aperçu de notre parc automobile : Volkswagen Golf, Audi A1, Range Rover, Porsche et BMW.'
+        }
+      ];
+
+      const fleetGridEl = document.getElementById('fleet-grid');
+      const filterBtns = Array.from(document.querySelectorAll('.fleet-filter-btn'));
+      const lightboxEl = document.getElementById('fleet-lightbox');
+      const lightboxImg = document.getElementById('lightbox-img');
+      const lightboxTitle = document.getElementById('lightbox-title');
+      const lightboxCategory = document.getElementById('lightbox-category');
+      const lightboxDesc = document.getElementById('lightbox-desc');
+      const lightboxCounter = document.getElementById('lightbox-counter');
+      const lightboxCloseBtn = document.getElementById('lightbox-close');
+      const lightboxPrevBtn = document.getElementById('lightbox-prev');
+      const lightboxNextBtn = document.getElementById('lightbox-next');
+
+      let activeFilter = 'all';
+      let currentFilteredList = [...fleetItems];
+      let currentLightboxIndex = 0;
+
+      function renderFleetGrid(filter) {
+        activeFilter = filter;
+        currentFilteredList = filter === 'all'
+          ? [...fleetItems]
+          : fleetItems.filter((item) => item.category === filter);
+
+        if (!fleetGridEl) return;
+        fleetGridEl.innerHTML = '';
+
+        currentFilteredList.forEach((item, idx) => {
+          const title = currentLang === 'ar' ? item.titleAr : item.titleFr;
+          const cat = currentLang === 'ar' ? item.catAr : item.catFr;
+          const desc = currentLang === 'ar' ? item.descAr : item.descFr;
+          const inspectLabel = currentLang === 'ar' ? 'معاينة الصورة' : 'Agrandir';
+
+          const card = document.createElement('article');
+          card.className = 'group rounded-3xl bg-asphalt border border-white/10 hover:border-bronze/55 overflow-hidden transition-all duration-300 flex flex-col justify-between shadow-lg';
+
+          card.innerHTML = `
+            <div>
+              <button
+                type="button"
+                data-idx="${idx}"
+                class="fleet-card-trigger relative block w-full aspect-[16/11] bg-charcoal overflow-hidden text-start cursor-pointer focus:outline-none"
+                aria-label="${title}"
+              >
+                <img
+                  src="${item.src}"
+                  alt="${title}"
+                  loading="lazy"
+                  class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
+                  onerror="this.onerror=null;this.src='https://placehold.co/800x550/131822/C89B54?text=${encodeURIComponent(title)}';"
+                />
+                <div class="absolute inset-0 bg-gradient-to-t from-obsidian/85 via-obsidian/15 to-transparent opacity-80 group-hover:opacity-65 transition-opacity"></div>
+                <span class="absolute top-3.5 start-3.5 px-3 py-1 rounded-xl bg-obsidian/85 backdrop-blur-md border border-bronze/35 text-bronze text-xs font-semibold">
+                  ${cat}
+                </span>
+                <span class="absolute bottom-3.5 end-3.5 px-3 py-1.5 rounded-xl bg-obsidian/85 backdrop-blur-md border border-white/15 text-alabaster text-xs font-medium inline-flex items-center gap-1.5 group-hover:border-bronze group-hover:text-bronze transition-colors">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 3 21 3 21 9" />
+                    <polyline points="9 21 3 21 3 15" />
+                    <line x1="21" y1="3" x2="14" y2="10" />
+                    <line x1="3" y1="21" x2="10" y2="14" />
+                  </svg>
+                  <span>${inspectLabel}</span>
+                </span>
+              </button>
+
+              <div class="p-6">
+                <h3 class="text-lg font-bold text-alabaster mb-2 group-hover:text-bronze transition-colors">${title}</h3>
+                <p class="text-sm text-slateSteel leading-relaxed">${desc}</p>
+              </div>
+            </div>
+
+            <div class="px-6 pb-5 pt-3 border-t border-white/5 flex items-center justify-between text-xs">
+              <span class="text-slateSteel font-latin">Berrechid • 7C7H+37F</span>
+              <a
+                href="https://www.google.com/maps/dir/?api=1&destination=7C7H%2B37F%2C+%D8%B4%D8%A7%D8%B1%D8%B9+%D8%AD%D8%A7%D8%AA%D9%85+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A%2C+Berrechid"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="font-semibold text-bronze hover:text-bronzeLight transition-colors"
+              >
+                ${currentLang === 'ar' ? 'زيارة الوكالة ←' : 'Voir en agence →'}
+              </a>
+            </div>
+          `;
+
+          fleetGridEl.appendChild(card);
+        });
+
+        fleetGridEl.querySelectorAll('.fleet-card-trigger').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            const index = parseInt(btn.getAttribute('data-idx') || '0', 10);
+            openLightbox(index);
+          });
+        });
+      }
+
+      filterBtns.forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const selectedFilter = btn.getAttribute('data-filter') || 'all';
+          filterBtns.forEach((b) => {
+            b.classList.remove('active', 'bg-bronze', 'text-obsidian', 'border-bronze', 'font-bold');
+            b.classList.add('bg-asphalt', 'text-alabaster', 'border-white/10', 'font-semibold');
+          });
+          btn.classList.remove('bg-asphalt', 'text-alabaster', 'border-white/10', 'font-semibold');
+          btn.classList.add('active', 'bg-bronze', 'text-obsidian', 'border-bronze', 'font-bold');
+          renderFleetGrid(selectedFilter);
+        });
+      });
+
+      function updateLightboxContent() {
+        const item = currentFilteredList[currentLightboxIndex];
+        if (!item || !lightboxImg) return;
+        const title = currentLang === 'ar' ? item.titleAr : item.titleFr;
+        const cat = currentLang === 'ar' ? item.catAr : item.catFr;
+        const desc = currentLang === 'ar' ? item.descAr : item.descFr;
+
+        lightboxImg.src = item.src;
+        lightboxImg.alt = title;
+        if (lightboxTitle) lightboxTitle.textContent = title;
+        if (lightboxCategory) lightboxCategory.textContent = cat;
+        if (lightboxDesc) lightboxDesc.textContent = desc;
+        if (lightboxCounter) {
+          lightboxCounter.textContent = `${currentLightboxIndex + 1} / ${currentFilteredList.length}`;
+        }
+      }
+
+      function openLightbox(index) {
+        if (!lightboxEl) return;
+        currentLightboxIndex = index;
+        updateLightboxContent();
+        lightboxEl.classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeLightbox() {
+        if (!lightboxEl) return;
+        lightboxEl.classList.add('hidden');
+        document.body.style.overflow = '';
+      }
+
+      if (lightboxCloseBtn) {
+        lightboxCloseBtn.addEventListener('click', closeLightbox);
+      }
+      if (lightboxPrevBtn) {
+        lightboxPrevBtn.addEventListener('click', () => {
+          currentLightboxIndex = (currentLightboxIndex - 1 + currentFilteredList.length) % currentFilteredList.length;
+          updateLightboxContent();
+        });
+      }
+      if (lightboxNextBtn) {
+        lightboxNextBtn.addEventListener('click', () => {
+          currentLightboxIndex = (currentLightboxIndex + 1) % currentFilteredList.length;
+          updateLightboxContent();
+        });
+      }
